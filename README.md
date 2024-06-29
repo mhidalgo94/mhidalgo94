@@ -13,11 +13,7 @@ Outside of the professional field, I love to enjoy sports, video games, the beac
 * 🌍  I was born in Cuba but I live in the US
 * 📫 How to reach me: mhidalgodev@outlook.com
 * 💼 You can find me on <a href="https://www.linkedin.com/in/monicampowell/">@mhidalgo94</a>
-
-
-
-
-* <span style="display: flex; flex-direction: row; align-items:center">🧠   I'm learning  <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="20"> and  <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="20">
+* <span style="display: flex; flex-direction: row; align-items:center">💻   I'm learning  <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="20"> and  <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="20">
 </span>
 
 ### Skills
