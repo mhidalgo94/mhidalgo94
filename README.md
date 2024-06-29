@@ -1,6 +1,6 @@
 <h2>Hey 👋, My name is <a href="https://www.linkedin.com/in/mhidalgo94/">Mario</a></h2>
 
-Software Developer
+ Full-Stack Software Developer
 ------------------------------------------------------
 
 <p>Hi there. I started my professional journey learning about networking primarily on Linux servers, exploring technologies such as virtualization on Proxmox, proxy servers, and firewalls. This knowledge provided me with a solid technical foundation.
